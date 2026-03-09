@@ -73,7 +73,7 @@ src/
 
 1. Clone the repository
 
-git clone https://github.com/YOURUSERNAME/feature-toggle-demo
+git clone [https://github.com/PaulinaS123/Assignment-Creating-a-Feature-Toggle-Component-in-React.git]
 
 2. Navigate into the project folder
 
