@@ -19,7 +19,8 @@ The project was created using **Vite + React** and developed in Visual Studio Co
 
 The goal of this assignment is to:
 
-* Understand how **props** work in React
+* Understand how **props** work in React Props: Props are inputs passed from a parent component to a child component in React,
+  allowing components to display different data or behavior
 * Implement **conditional rendering**
 * Create a reusable **FeatureToggle component**
 * Demonstrate **normal and edge test cases**
